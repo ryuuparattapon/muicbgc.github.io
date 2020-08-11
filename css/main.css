@@ -209,3 +209,7 @@ color: rgba(255, 255, 255, 0.46) !important
 html {
   scroll-behavior: smooth;
 }
+
+iframe {
+  overflow: hidden;
+}
